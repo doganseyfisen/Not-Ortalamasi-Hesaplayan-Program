@@ -2,7 +2,7 @@
 
 ## Java Programlama Dilinde Not Ortalamasi Hesaplayan Program
 
-Programa ulaşmak için aşağıdaki bağlantıya tıklayın.
+Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 
 ```
 https://github.com/doganseyfisen/Not-Ortalamas-Hesaplayan-Program/blob/main/notortalamasi.java
