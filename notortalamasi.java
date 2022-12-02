@@ -26,7 +26,7 @@ public class Driver {
 		muzik = scanner.nextInt();
 		
 		int toplam = (matematik + fizik + kimya + turkce + tarih + muzik);
-		double ortalama = toplam/7.0;
+		double ortalama = toplam/6.0;
 		
 		System.out.println("Genel ortalama: " + ortalama);
 		
