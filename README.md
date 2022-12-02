@@ -5,5 +5,5 @@
 Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 
 ```
-https://github.com/doganseyfisen/Not-Ortalamas-Hesaplayan-Program/blob/main/notortalamasi.java
+https://github.com/doganseyfisen/Not-Ortalamasi-Hesaplayan-Program/blob/main/notortalamasi.java
 ```
